@@ -2,7 +2,7 @@ Hello : )
 
 I have no idea what I'm doing
 
-Feel free to stalk me
+Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srivathsannayak/" alt="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
