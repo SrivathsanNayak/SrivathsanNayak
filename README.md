@@ -68,5 +68,4 @@ I have no idea what I'm doing
 <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/Wireshark-5391FE?style=for-the-badge&logo=wireshark&logoColor=white" alt="WireShark">
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=&logoColor=white" alt="PowerShell">
 </div>
