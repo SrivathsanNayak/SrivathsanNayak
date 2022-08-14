@@ -1,7 +1,3 @@
-Hello : )
-
-I have no idea what I'm doing
-
 ## Connect with me
 
 <p align="center">
